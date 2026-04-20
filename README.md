@@ -55,4 +55,4 @@ This was my first game jam and I challenged myself to hand craft as much of the 
 
 ## Game Jam
 
-Made for my first game jam with the theme **Seamless Loop**.
+Made for my first game jam with the theme of **Spring** and the limitations of creating a **Seamless Loop**.
